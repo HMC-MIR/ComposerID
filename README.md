@@ -8,7 +8,7 @@ You can find the ISMIR paper (tag 2.0) [here](http://pages.hmc.edu/ttsai/assets/
 
 ## Citation
 
-Daniel Yang, TJ Tsai. "COMPOSER CLASSIFICATION WITH CROSS-MODAL TRANSFER LEARNING AND MUSICALLY-INFORMED AUGMENTATION." Proceedings of the International Society for Music Information Retrieval Conference, 2021, to appear.
+Daniel Yang, TJ Tsai. "Composer Classification With Cross-Modal Transfer Learning and Musically-Informed Augmentation." Proceedings of the International Society for Music Information Retrieval Conference, 2021, to appear.
 
 
 Daniel Yang, Kevin Ji, and TJ Tsai.  "A Deeper Look at Sheet Music Composer Classification Using Self-Supervised Pretraining."  Applied Sciences, 11(4): 1387, 2021.
